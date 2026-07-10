@@ -1,7 +1,7 @@
 ## Paperset
 A Minimal GTK Wallpapermanager written in C for Linux systems
 ---
-<img src="https://github.com/SebTMo/Paperset/blob/main/screenshot.png" alt="-" style="width: 20vw;" />
+<img src="https://github.com/SebTMo/Paperset/blob/master/screenshot.png" alt="-" style="width: 20vw;" />
 
 [![GitHub Repository Größe](https://img.shields.io/github/repo-size/SebTMo/Paperset)](https://github.com/SebTMo/Paperset)
 [![GitHub letzer Commit](https://img.shields.io/github/last-commit/SebTMo/Paperset)](https://github.com/SebTMo/Paperset/commits/main)
